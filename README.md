@@ -1,0 +1,1 @@
+# tutorial-aws-ponderada-sem3
