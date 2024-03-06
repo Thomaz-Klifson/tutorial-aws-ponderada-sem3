@@ -36,7 +36,7 @@ git clone https://github.com/seu-usuario/gerenciamento-produtos.git
 
 ### Vídeo tutorial
 
-`https://drive.google.com/file/d/1OF4Hsi2ucjFSH4v91RJ3SqnssqEJE_fG/view?usp=sharing`
+https://drive.google.com/file/d/1OF4Hsi2ucjFSH4v91RJ3SqnssqEJE_fG/view?usp=sharing
 
 ### Link da aplicação desenvolvida:
 http://ec2-44-194-4-55.compute-1.amazonaws.com/SamplePage.php
